@@ -1,0 +1,3 @@
+-- CREATE USER IF NOT EXISTS 'api_node_user'@'%' IDENTIFIED BY 'password99';
+-- GRANT ALL PRIVILEGES ON api_node_sql.* TO 'api_node_user'@'%';
+-- FLUSH PRIVILEGES;
